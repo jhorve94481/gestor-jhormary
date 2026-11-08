@@ -1,0 +1,43 @@
+{
+  "ventas": [],
+  "productos": {
+    "Topper Circular": {
+      "precio": 7.0,
+      "stock": 10
+    },
+    "Topper Básico 2 Capas": {
+      "precio": 5.0,
+      "stock": 13.0
+    },
+    "Piñata Cuadrada Básica": {
+      "precio": 10.0,
+      "stock": 3.0
+    },
+    "Impresión DTF - Insignia": {
+      "precio": 1.0,
+      "stock": 50
+    },
+    "Franela Blanca Piel de Durazno": {
+      "precio": 12.0,
+      "stock": 8
+    },
+    "Hoja de Stickers": {
+      "precio": 4.0,
+      "stock": 30
+    },
+    "Agenda Tamaño Carta": {
+      "precio": 15.0,
+      "stock": 5
+    }
+  },
+  "caja_abierta": true,
+  "gastos": [],
+  "historial_caja": [],
+  "clientes": [
+    {
+      "id": "20261108005058",
+      "nombre": "JOHAN",
+      "telefono": "04126813576"
+    }
+  ]
+}
